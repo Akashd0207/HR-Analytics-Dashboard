@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Power BI dashboard provides workforce analytics and HR insights by analyzing employee attrition, workforce demographics, salary distribution, recruitment effectiveness, and departmental trends. The dashboard helps HR teams monitor key workforce metrics and support data-driven decision-making.
+This Power BI dashboard provides workforce analytics and HR insights by analyzing employee attrition, workforce demographics, salary distribution, recruitment effectiveness, and departmental trends. The dashboard helps HR teams monitor key workforce metrics and support data-driven decision-making
 
 ## Business Objectives
 

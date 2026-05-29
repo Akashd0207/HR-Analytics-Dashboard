@@ -56,4 +56,4 @@ This Power BI dashboard provides workforce analytics and HR insights by analyzin
 
 ### Attrition Analysis
 
-![Attrition Analysis](Attrition-analysis.png)
+![Attrition Analysis](Attrition-Analysis.png)

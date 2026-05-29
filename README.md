@@ -53,3 +53,7 @@ This Power BI dashboard provides workforce analytics and HR insights by analyzin
 * Dashboard Design
 * Data Visualization
 * Business Intelligence Reporting
+
+### Attrition Analysis
+
+![Attrition Analysis](attrition-analysis.png)
